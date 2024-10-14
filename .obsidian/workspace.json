@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "c45ee188918acc6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c6b4337fa97f72d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "329be909d13cde0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi Matematica 1/Relazioni e funzioni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d4373fcd65bfd1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6367e35dab6c976b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d829b160fb21a301",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d58aa960fa7f0a50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce4ac870d4ed9d39",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5fa30262353c3f98",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e8b0c6cfb5c34a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51c78734c5c2a1b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Analisi Matematica 1/Relazioni e funzioni.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24df01b8f0f78369",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Analisi Matematica 1/Relazioni e funzioni.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b75ac6ff0eb9093",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e1b2d885f922ea6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Analisi Matematica 1/Relazioni e funzioni.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "handwritten-notes:Create empty handwritten note": false
+    }
+  },
+  "active": "329be909d13cde0c",
+  "lastOpenFiles": [
+    "Analisi Matematica 1/Logica.md",
+    "Analisi Matematica 1/Relazioni e funzioni.md",
+    "Analisi Matematica 1/Teoria degli insiemi.md",
+    "Anali.md",
+    "Analisi Matematica 1",
+    "Analisi Matematica 1/PDF/3-Relazioni e funzioni.pdf",
+    "Analisi Matematica 1/Metodi deduttivi.md",
+    "Analisi Matematica 1/PDF/1-Logica.pdf",
+    "Analisi Matematica 1/PDF/2-Insiemi.pdf",
+    "Benvenuto.md",
+    "Analisi Matematica 1/PDF",
+    "Excalidraw/Drawing 2024-10-11 23.34.21.excalidraw.md",
+    "Excalidraw"
+  ]
+}

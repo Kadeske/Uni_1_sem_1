@@ -7,7 +7,7 @@ Una **relazione binaria** tra due insiemi $A$ e $B$ è un sottoinsieme del **pro
 ### Modi di rappresentare una relazione
 
 1. **Elencazione**: elenca le coppie della relazione.
-    
+	    
     - **Esempio**: $R = {(2, 3)}$
 2. **Proprietà caratteristica**: si descrive con una proprietà che devono soddisfare le coppie.
     
@@ -21,7 +21,7 @@ Una **relazione binaria** tra due insiemi $A$ e $B$ è un sottoinsieme del **pro
     
     - **Esempio**:
     
-    132(2, 1)(2, 3)\begin{array}{c|c c} & 1 & 3 \\ 2 & \text{(2, 1)} & \text{(2, 3)} \\ \end{array}2​1(2, 1)​3(2, 3)​
+    $132(2, 1)(2, 3)\begin{array}{c|c c} & 1 & 3 \\ 2 & \text{(2, 1)} & \text{(2, 3)} \\ \end{array}2​1(2, 1)​3(2, 3)​$
 
 ---
 
@@ -30,8 +30,9 @@ Una **relazione binaria** tra due insiemi $A$ e $B$ è un sottoinsieme del **pro
 Le relazioni possono avere alcune **proprietà** particolari:
 
 1. **Riflessiva**: Ogni elemento è in relazione con se stesso.
-    
-    - **Esempio**: $\forall a \in A$, $a R a$
+	    $A = {1,2}$
+	    $AxA = {(1,1),(2,2)}$
+	- **Esempio**: $\forall a \in A$, $a R a$
 2. **Antiriflessiva**: Nessun elemento è in relazione con se stesso.
     
     - **Esempio**: $\forall a \in A$, $a R a$ non è vero.

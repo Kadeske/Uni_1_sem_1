@@ -44,7 +44,7 @@ La **cardinalità** di un insieme è il numero degli elementi contenuti in esso,
 
 ### Insieme vuoto
 
-L'**insieme vuoto** è l'insieme che non contiene alcun elemento e si indica con $ \emptyset $ o ${}$.
+L'**insieme vuoto** è l'insieme che non contiene alcun elemento e si indica con $\emptyset $ o ${}$.
 
 - **Esempio**: L'insieme dei numeri naturali minori di 1 è l'insieme vuoto: $ \emptyset = {x \in \mathbb{N} \mid x < 1}$.
 

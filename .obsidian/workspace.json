@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi Matematica 1/Relazioni e funzioni.md",
+                "file": "Analisi Matematica 1/Teoria degli insiemi.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f1ae0480b7b38b90",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md"
               }
             }
           },
@@ -32,14 +42,24 @@
             }
           },
           {
-            "id": "53057d1755f8686f",
+            "id": "3e278815b7ccf1f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Analisi Matematica 1/Teoria degli insiemi.md",
-                "mode": "source",
-                "source": false
+                "file": "Analisi Matematica 1/PDF/5-Topologia della retta.pdf",
+                "page": 1,
+                "zoom": 1
+              }
+            }
+          },
+          {
+            "id": "3a985753f7828924",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-14 13.33.59.excalidraw.md"
               }
             }
           }
@@ -110,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi Matematica 1/Topologia della retta reale.md",
+                "file": "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisi Matematica 1/Topologia della retta reale.md",
+                "file": "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi Matematica 1/Topologia della retta reale.md"
+                "file": "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md"
               }
             }
           }
@@ -176,13 +196,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "46a7440332f129e2",
+  "active": "f1ae0480b7b38b90",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-14 13.33.59.excalidraw.md",
     "Analisi Matematica 1/Teoria degli insiemi.md",
-    "Analisi Matematica 1/Topologia della retta reale.md",
-    "Analisi Matematica 1/PDF/5-Topologia della retta.pdf",
-    "Analisi Matematica 1/Insiemi numerici.md",
     "Analisi Matematica 1/Relazioni e funzioni.md",
+    "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-14 13.43.44.excalidraw.md",
+    "Analisi Matematica 1/Insiemi numerici.md",
+    "Analisi Matematica 1/PDF/5-Topologia della retta.pdf",
+    "Excalidraw",
+    "Analisi Matematica 1/Topologia della retta reale.md",
     "Analisi Matematica 1/Logica.md",
     "Analisi Matematica 1/Metodi deduttivi.md",
     "Analisi Matematica 1/PDF/4-Insiemi numerici.pdf",
@@ -196,7 +220,6 @@
     "Analisi Matematica 1/PDF/2-Insiemi.pdf",
     "Benvenuto.md",
     "Analisi Matematica 1/PDF",
-    "Excalidraw/Drawing 2024-10-11 23.34.21.excalidraw.md",
-    "Excalidraw"
+    "Excalidraw/Drawing 2024-10-11 23.34.21.excalidraw.md"
   ]
 }

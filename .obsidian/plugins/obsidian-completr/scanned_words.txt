@@ -350,6 +350,7 @@ TfYT
 TCwX
 TQEa
 THyp
+Text
 Catalog
 Count
 Contents
@@ -735,6 +736,7 @@ illimitato
 intorno
 interamente
 interseca
+info
 Outlines
 Os
 Ordering
@@ -851,6 +853,7 @@ Olx
 Ok
 OJz
 OkEg
+OPTIONS
 Metadata
 MediaBox
 Mk
@@ -967,6 +970,7 @@ MlIC
 MpCehiHzreSzNTczkc
 Microsoft
 ModifyDate
+MORE
 ViewerPreferences
 Va
 Vr
@@ -1089,6 +1093,7 @@ VSe
 VG
 Vqm
 VkEG
+VIEW
 endobj
 endstream
 eA
@@ -1219,6 +1224,7 @@ estende
 esiste
 esterno
 exists
+excalidraw
 Kids
 KH
 Ks
@@ -1568,6 +1574,9 @@ ExT
 EL
 EFx
 EOFF
+EXCALIDRAW
+Excalidraw
+Elements
 GS
 Group
 GAZ
@@ -1800,6 +1809,7 @@ FNv
 FJI
 FV
 FB
+For
 XObject
 XE
 XHeight
@@ -2168,6 +2178,9 @@ DocumentID
 DisplayDocTitle
 Dedekind
 Due
+Drawing
+Decompress
+Data
 stream
 sL
 sQ
@@ -2324,6 +2337,7 @@ simboli
 suo
 suoi
 sulla
+settings
 br
 bhTH
 bF
@@ -3199,6 +3213,7 @@ fJf
 frontiera
 finiti
 forall
+file
 JV
 JFIF
 JH
@@ -3585,6 +3600,10 @@ centrale
 completamente
 complementare
 chiusi
+can
+command
+current
+check
 UJ
 Uc
 UM
@@ -4032,6 +4051,9 @@ punti
 punto
 positivi
 poich
+plugin
+parsed
+palette
 WaL
 Wl
 WWo
@@ -4452,6 +4474,7 @@ wQd
 wzD
 wsS
 wmR
+with
 mc
 mf
 mm
@@ -4566,6 +4589,8 @@ mLI
 meta
 muove
 modi
+menu
+more
 zJ
 zc
 zT
@@ -5009,6 +5034,7 @@ uJT
 ubeZ
 uXOw
 uuid
+under
 YN
 YqT
 Yd
@@ -5121,6 +5147,7 @@ YMo
 YmJ
 YbO
 Yor
+You
 xn
 xz
 xb
@@ -5341,6 +5368,9 @@ tdy
 tTT
 title
 tonde
+tags
+the
+this
 nnWd
 nv
 nd
@@ -5579,6 +5609,8 @@ SoN
 SjU
 Ssw
 Seq
+Switch
+Saving
 Zf
 ZK
 ZM
@@ -6049,6 +6081,8 @@ destro
 determinano
 detto
 diverso
+document
+decompress
 öG
 yV
 yo

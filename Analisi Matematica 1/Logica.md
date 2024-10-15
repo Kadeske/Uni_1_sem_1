@@ -54,12 +54,12 @@ Un **enunciato composto** è formato da due o più enunciati semplici legati da 
 
 ### Tabella dei connettivi binari
 
-|**p**|**q**|**p ∧ q** (AND)|**p ∨ q** (OR)|**p ⇒ q** (Implica)|**p ⇔ q** (Equivalente)|**p ⊕ q** (XOR)|
-|---|---|---|---|---|---|---|
-|VERO|VERO|VERO|VERO|VERO|VERO|FALSO|
-|VERO|FALSO|FALSO|VERO|FALSO|FALSO|VERO|
-|FALSO|VERO|FALSO|VERO|VERO|FALSO|VERO|
-|FALSO|FALSO|FALSO|FALSO|VERO|VERO|FALSO|
+| **p** | **q** | **p ∧ q** (AND) | **p ∨ q** (OR) | **p ⇒ q** (Implica) | **p ⇔ q** (Equivalente) | **p ⊕ q** (XOR) |
+| ----- | ----- | --------------- | -------------- | ------------------- | ----------------------- | --------------- |
+| VERO  | VERO  | VERO            | VERO           | VERO                | VERO                    | FALSO           |
+| VERO  | FALSO | FALSO           | VERO           | FALSO               | FALSO                   | VERO            |
+| FALSO | VERO  | FALSO           | VERO           | VERO                | FALSO                   | VERO            |
+| FALSO | FALSO | FALSO           | FALSO          | VERO                | VERO                    | FALSO           |
 
 ### Esempi per ciascun connettivo
 

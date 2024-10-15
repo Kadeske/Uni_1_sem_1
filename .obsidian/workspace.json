@@ -23,9 +23,13 @@
             "id": "f1ae0480b7b38b90",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md"
+                "file": "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.pdf",
+                "page": 1,
+                "left": -15,
+                "top": 1591,
+                "zoom": 1.0178094390026715
               }
             }
           },
@@ -130,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",
+                "file": "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",
+                "file": "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md"
+                "file": "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.pdf"
               }
             }
           }
@@ -193,33 +197,34 @@
       "handwritten-notes:Create empty handwritten note": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "f1ae0480b7b38b90",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-14 13.43.44.excalidraw.md",
+    "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.pdf",
+    "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.rnote",
+    "Analisi Matematica 1/IMG/Esercizi_15_ott_24.rnote",
+    "Analisi Matematica 1/IMG/Rnote/Appunti_15_ott_24_.rnote",
+    "Analisi Matematica 1/IMG/Appunti_15_ott_24_.rnote",
+    "Analisi Matematica 1/IMG/Rnote",
+    "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",
     "Excalidraw/Drawing 2024-10-14 13.33.59.excalidraw.md",
+    "Analisi Matematica 1/Logica.md",
+    "Analisi Matematica 1/Insiemi numerici.md",
     "Analisi Matematica 1/Teoria degli insiemi.md",
     "Analisi Matematica 1/Relazioni e funzioni.md",
-    "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-14 13.43.44.excalidraw.md",
-    "Analisi Matematica 1/Insiemi numerici.md",
     "Analisi Matematica 1/PDF/5-Topologia della retta.pdf",
     "Excalidraw",
     "Analisi Matematica 1/Topologia della retta reale.md",
-    "Analisi Matematica 1/Logica.md",
     "Analisi Matematica 1/Metodi deduttivi.md",
     "Analisi Matematica 1/PDF/4-Insiemi numerici.pdf",
     "Analisi Matematica 1/IMG/Schema_insiemi_numerici.png",
     "Analisi Matematica 1/IMG/irrazionalitrascendentali.gif.crdownload",
-    "Analisi Matematica 1/IMG",
-    "Analisi Matematica 1/PDF/3-Relazioni e funzioni.pdf",
     "Anali.md",
-    "Analisi Matematica 1",
-    "Analisi Matematica 1/PDF/1-Logica.pdf",
-    "Analisi Matematica 1/PDF/2-Insiemi.pdf",
     "Benvenuto.md",
-    "Analisi Matematica 1/PDF",
     "Excalidraw/Drawing 2024-10-11 23.34.21.excalidraw.md"
   ]
 }

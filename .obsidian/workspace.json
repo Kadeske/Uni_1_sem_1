@@ -27,9 +27,7 @@
               "state": {
                 "file": "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.pdf",
                 "page": 1,
-                "left": -15,
-                "top": 1591,
-                "zoom": 1.0178094390026715
+                "zoom": 1
               }
             }
           },
@@ -51,9 +49,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Analisi Matematica 1/PDF/5-Topologia della retta.pdf",
+                "file": "Analisi Matematica 1/IMG/Rnote/Tutorato_16_ott_.pdf",
                 "page": 1,
-                "zoom": 1
+                "left": -15,
+                "top": 1591,
+                "zoom": 1.0178094390026715
               }
             }
           },
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.pdf",
+                "file": "Analisi Matematica 1/IMG/Rnote/Tutorato_16_ott_.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.pdf",
+                "file": "Analisi Matematica 1/IMG/Rnote/Tutorato_16_ott_.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.pdf"
+                "file": "Analisi Matematica 1/IMG/Rnote/Tutorato_16_ott_.pdf"
               }
             }
           }
@@ -201,10 +201,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f1ae0480b7b38b90",
+  "active": "3e278815b7ccf1f8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-14 13.43.44.excalidraw.md",
+    "Analisi Matematica 1/PDF/3-Relazioni e funzioni.pdf",
+    "Analisi Matematica 1/Insiemi numerici.md",
+    "Analisi Matematica 1/PDF/2-Insiemi.pdf",
+    "Analisi Matematica 1/PDF/5-Topologia della retta.pdf",
+    "Analisi Matematica 1/IMG/Rnote/Tutorato_16_ott_.rnote",
     "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.pdf",
+    "Excalidraw/Drawing 2024-10-14 13.43.44.excalidraw.md",
     "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.rnote",
     "Analisi Matematica 1/IMG/Esercizi_15_ott_24.rnote",
     "Analisi Matematica 1/IMG/Rnote/Appunti_15_ott_24_.rnote",
@@ -213,16 +218,11 @@
     "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",
     "Excalidraw/Drawing 2024-10-14 13.33.59.excalidraw.md",
     "Analisi Matematica 1/Logica.md",
-    "Analisi Matematica 1/Insiemi numerici.md",
     "Analisi Matematica 1/Teoria degli insiemi.md",
     "Analisi Matematica 1/Relazioni e funzioni.md",
-    "Analisi Matematica 1/PDF/5-Topologia della retta.pdf",
-    "Excalidraw",
     "Analisi Matematica 1/Topologia della retta reale.md",
     "Analisi Matematica 1/Metodi deduttivi.md",
-    "Analisi Matematica 1/PDF/4-Insiemi numerici.pdf",
     "Analisi Matematica 1/IMG/Schema_insiemi_numerici.png",
-    "Analisi Matematica 1/IMG/irrazionalitrascendentali.gif.crdownload",
     "Anali.md",
     "Benvenuto.md",
     "Excalidraw/Drawing 2024-10-11 23.34.21.excalidraw.md"

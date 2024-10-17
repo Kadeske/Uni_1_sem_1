@@ -49,11 +49,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Analisi Matematica 1/IMG/Rnote/Tutorato_16_ott_.pdf",
-                "page": 1,
-                "left": -15,
-                "top": 1591,
-                "zoom": 1.0178094390026715
+                "file": "Analisi Matematica 1/PDF/6-Funzioni reali.pdf",
+                "page": 33,
+                "left": -59,
+                "top": 544,
+                "zoom": 1.4
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi Matematica 1/IMG/Rnote/Tutorato_16_ott_.pdf",
+                "file": "Analisi Matematica 1/PDF/6-Funzioni reali.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisi Matematica 1/IMG/Rnote/Tutorato_16_ott_.pdf",
+                "file": "Analisi Matematica 1/PDF/6-Funzioni reali.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi Matematica 1/IMG/Rnote/Tutorato_16_ott_.pdf"
+                "file": "Analisi Matematica 1/PDF/6-Funzioni reali.pdf"
               }
             }
           }
@@ -203,18 +203,19 @@
   },
   "active": "3e278815b7ccf1f8",
   "lastOpenFiles": [
+    "Fondamenti di Informatica/IMG/rnote/Appunti_17_ott_24__.rnote",
+    "Fondamenti di Informatica/IMG/rnote",
+    "Fondamenti di Informatica/IMG",
+    "Fondamenti di Informatica",
+    "Analisi Matematica 1/IMG/Rnote/Appunti_17_ott_24_.pdf",
+    "Analisi Matematica 1/PDF/5-Topologia della retta.pdf",
+    "Analisi Matematica 1/PDF/6-Funzioni reali.pdf",
+    "Analisi Matematica 1/IMG/Rnote/Tutorato_16_ott_.pdf",
+    "Analisi Matematica 1/IMG/Rnote/Appunti_17_ott_24_.rnote",
     "Analisi Matematica 1/PDF/3-Relazioni e funzioni.pdf",
     "Analisi Matematica 1/Insiemi numerici.md",
     "Analisi Matematica 1/PDF/2-Insiemi.pdf",
-    "Analisi Matematica 1/PDF/5-Topologia della retta.pdf",
-    "Analisi Matematica 1/IMG/Rnote/Tutorato_16_ott_.rnote",
-    "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.pdf",
     "Excalidraw/Drawing 2024-10-14 13.43.44.excalidraw.md",
-    "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.rnote",
-    "Analisi Matematica 1/IMG/Esercizi_15_ott_24.rnote",
-    "Analisi Matematica 1/IMG/Rnote/Appunti_15_ott_24_.rnote",
-    "Analisi Matematica 1/IMG/Appunti_15_ott_24_.rnote",
-    "Analisi Matematica 1/IMG/Rnote",
     "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",
     "Excalidraw/Drawing 2024-10-14 13.33.59.excalidraw.md",
     "Analisi Matematica 1/Logica.md",

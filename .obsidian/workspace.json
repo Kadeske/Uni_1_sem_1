@@ -16,7 +16,9 @@
                 "file": "Analisi Matematica 1/Teoria degli insiemi.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Teoria degli insiemi"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.pdf",
                 "page": 1,
                 "zoom": 1
-              }
+              },
+              "icon": "lucide-file-text",
+              "title": "Esercizi_15_ott_24"
             }
           },
           {
@@ -40,21 +44,23 @@
                 "file": "Analisi Matematica 1/Topologia della retta reale.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Topologia della retta reale"
             }
           },
           {
             "id": "3e278815b7ccf1f8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Analisi Matematica 1/PDF/6-Funzioni reali.pdf",
-                "page": 33,
-                "left": -59,
-                "top": 544,
-                "zoom": 1.4
-              }
+                "file": "Analisi Matematica 1/Insiemi numerici.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Insiemi numerici"
             }
           },
           {
@@ -64,7 +70,9 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2024-10-14 13.33.59.excalidraw.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-14 13.33.59.excalidraw"
             }
           }
         ],
@@ -88,7 +96,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
             }
           },
           {
@@ -103,7 +113,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
             }
           },
           {
@@ -111,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
             }
           }
         ]
@@ -134,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi Matematica 1/PDF/6-Funzioni reali.pdf",
+                "file": "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +156,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Drawing 2024-10-14 13.55.38.excalidraw"
             }
           },
           {
@@ -151,10 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisi Matematica 1/PDF/6-Funzioni reali.pdf",
+                "file": "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Drawing 2024-10-14 13.55.38.excalidraw"
             }
           },
           {
@@ -165,7 +183,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
             }
           },
           {
@@ -174,8 +194,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi Matematica 1/PDF/6-Funzioni reali.pdf"
-              }
+                "file": "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Drawing 2024-10-14 13.55.38.excalidraw"
             }
           }
         ]
@@ -203,26 +225,26 @@
   },
   "active": "3e278815b7ccf1f8",
   "lastOpenFiles": [
+    "Fondamenti di Informatica/IMG/rnote/Appunti_17_ott_24__.pdf",
+    "Fondamenti di Informatica/IMG/rnote/Lezione_24_ott.pdf",
+    "Analisi Matematica 1/IMG/Rnote/Appunti_15_ott_24_.pdf",
+    "Analisi Matematica 1/Relazioni e funzioni.md",
+    "Analisi Matematica 1/Teoria degli insiemi.md",
+    "Analisi Matematica 1/Metodi deduttivi.md",
+    "Analisi Matematica 1/Logica.md",
+    "Analisi Matematica 1/Insiemi numerici.md",
+    "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-14 13.33.59.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-14 13.43.44.excalidraw.md",
+    "Analisi Matematica 1/PDF/6-Funzioni reali.pdf",
     "Fondamenti di Informatica/IMG/rnote/Appunti_17_ott_24__.rnote",
     "Fondamenti di Informatica/IMG/rnote",
     "Fondamenti di Informatica/IMG",
     "Fondamenti di Informatica",
     "Analisi Matematica 1/IMG/Rnote/Appunti_17_ott_24_.pdf",
     "Analisi Matematica 1/PDF/5-Topologia della retta.pdf",
-    "Analisi Matematica 1/PDF/6-Funzioni reali.pdf",
     "Analisi Matematica 1/IMG/Rnote/Tutorato_16_ott_.pdf",
-    "Analisi Matematica 1/IMG/Rnote/Appunti_17_ott_24_.rnote",
-    "Analisi Matematica 1/PDF/3-Relazioni e funzioni.pdf",
-    "Analisi Matematica 1/Insiemi numerici.md",
-    "Analisi Matematica 1/PDF/2-Insiemi.pdf",
-    "Excalidraw/Drawing 2024-10-14 13.43.44.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-14 13.33.59.excalidraw.md",
-    "Analisi Matematica 1/Logica.md",
-    "Analisi Matematica 1/Teoria degli insiemi.md",
-    "Analisi Matematica 1/Relazioni e funzioni.md",
     "Analisi Matematica 1/Topologia della retta reale.md",
-    "Analisi Matematica 1/Metodi deduttivi.md",
     "Analisi Matematica 1/IMG/Schema_insiemi_numerici.png",
     "Anali.md",
     "Benvenuto.md",

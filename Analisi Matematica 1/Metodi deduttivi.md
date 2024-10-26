@@ -1,94 +1,103 @@
-I **metodi deduttivi** sono tecniche logiche utilizzate per derivare conclusioni a partire da premesse. I principali metodi deduttivi sono il **Modus Ponens**, il **Modus Tollens** e la **Riduzione all'assurdo**.
+Capito, userò `$` per le formule inlinea e `$$` per i blocchi multilinea. Ecco il testo corretto:
 
 ---
 
-#### Modus Ponens (Affermando il conseguente)
+### Modus Ponens (Affermando il Consequente)
 
 Il **Modus Ponens** è una regola di inferenza che permette di dedurre la verità di una proposizione a partire da un'implicazione e dall'affermazione dell'antecedente.
 
 **Forma:**
 
-- Se p⇒qp \Rightarrow qp⇒q è vero, e ppp è vero, allora qqq è vero.
+- Se $ p \Rightarrow q $ è vero, e $ p $ è vero, allora $ q $ è vero.
 
 **Schema:**
 
-1. p⇒qp \Rightarrow qp⇒q (Se ppp allora qqq)
-2. ppp (Affermo che ppp è vero)
-3. qqq (Concludo che qqq è vero)
+$$
+\begin{align*}
+1. & \; p \Rightarrow q \; \text{(Se $ p $ allora $ q $)} \\
+2. & \; p \; \text{(Affermo che $ p $ è vero)} \\
+3. & \; q \; \text{(Concludo che $ q $ è vero)}
+\end{align*}
+$$
 
 **Esempio:**
 
-- **Premessa 1**: Se piove, allora le strade sono bagnate. p⇒qp -> qp⇒q
-- **Premessa 2**: Piove. ppp
-- **Conclusione**: Le strade sono bagnate. qqq
+- **Premessa 1**: Se piove, allora le strade sono bagnate. $ p \Rightarrow q $
+- **Premessa 2**: Piove. $ p $
+- **Conclusione**: Le strade sono bagnate. $ q $
 
 **Errore comune:**
 
-- Sbagliato: Se affermassi qqq (strade bagnate) senza sapere se ppp è vero (pioggia), non posso concludere che ppp sia vero.
+- Sbagliato: Se affermassi $ q $ (strade bagnate) senza sapere se $ p $ è vero (pioggia), non posso concludere che $ p $ sia vero.
 
 ---
 
-#### Modus Tollens (Negando il conseguente)
+### Modus Tollens (Negando il Consequente)
 
 Il **Modus Tollens** permette di dedurre la falsità di una proposizione dall'implicazione e dalla negazione del conseguente.
 
 **Forma:**
 
-- Se p⇒qp \Rightarrow qp⇒q è vero e qqq è falso, allora ppp è falso.
+- Se $ p \Rightarrow q $ è vero e $ q $ è falso, allora $ p $ è falso.
 
 **Schema:**
 
-1. p⇒qp \Rightarrow qp⇒q (Se ppp allora qqq)
-2. ¬q\neg q¬q (Affermo che qqq è falso)
-3. ¬p\neg p¬p (Concludo che ppp è falso)
+$$
+\begin{align*}
+1. & \; p \Rightarrow q \; \text{(Se $ p $ allora $ q $)} \\
+2. & \; \neg q \; \text{(Affermo che $ q $ è falso)} \\
+3. & \; \neg p \; \text{(Concludo che $ p $ è falso)}
+\end{align*}
+$$
 
 **Esempio:**
 
-- **Premessa 1**: Se piove, le strade sono bagnate. p⇒qp -> qp⇒q
-- **Premessa 2**: Le strade non sono bagnate. ¬q\neg q¬q
-- **Conclusione**: Non piove. ¬p\neg p¬p
+- **Premessa 1**: Se piove, le strade sono bagnate. $ p \Rightarrow q $
+- **Premessa 2**: Le strade non sono bagnate. $ \neg q $
+- **Conclusione**: Non piove. $ \neg p $
 
 **Errore comune:**
 
-- Sbagliato: Non posso dedurre che qqq sia falso solo perché non ho osservato ppp. Ad esempio, le strade potrebbero essere bagnate per altre cause (ad esempio, un lavaggio).
+- Sbagliato: Non posso dedurre che $ q $ sia falso solo perché non ho osservato $ p $. Ad esempio, le strade potrebbero essere bagnate per altre cause (ad esempio, un lavaggio).
 
 ---
 
-#### Riduzione all'assurdo (Contraddizione)
+### Riduzione all'assurdo (Contraddizione)
 
 La **riduzione all'assurdo** è una tecnica logica per dimostrare che una proposizione è vera, assumendo che sia falsa e mostrando che questa ipotesi conduce a una contraddizione.
 
 **Schema:**
 
-1. Assumo che ¬p\neg p¬p sia vero (si assume che ppp sia falso).
-2. Dimostro che questa ipotesi porta a una contraddizione (q∧¬qq \land \neg qq∧¬q).
-3. Concludo che ppp deve essere vero, perché l'assunzione della sua falsità è assurda.
+$$
+\begin{align*}
+1. & \; \text{Assumo che } \neg p \text{ sia vero (si assume che $ p $ sia falso)}. \\
+2. & \; \text{Dimostro che questa ipotesi porta a una contraddizione } (q \land \neg q). \\
+3. & \; \text{Concludo che } p \text{ deve essere vero, perché l'assunzione della sua falsità è assurda}.
+\end{align*}
+$$
 
 **Esempio:**
 
 - **Obiettivo**: Dimostrare che la radice quadrata di 2 è irrazionale.
-- **Passo 1**: Supponiamo che 2\sqrt{2}2​ sia razionale, ovvero si possa scrivere come ab\frac{a}{b}ba​, con aaa e bbb interi e coprimi.
-- **Passo 2**: Squadrando entrambi i lati, otteniamo 2=a2b22 = \frac{a^2}{b^2}2=b2a2​, cioè a2=2b2a^2 = 2b^2a2=2b2. Questo implica che a2a^2a2 è pari, e quindi aaa è pari.
-- **Passo 3**: Se aaa è pari, allora possiamo scrivere a=2ka = 2ka=2k. Sostituendo nell'equazione otteniamo 4k2=2b24k^2 = 2b^24k2=2b2, cioè b2=2k2b^2 = 2k^2b2=2k2. Quindi anche bbb è pari.
-- **Passo 4**: Se sia aaa che bbb sono pari, questo contraddice l'ipotesi che aaa e bbb fossero coprimi.
-- **Conclusione**: La supposizione iniziale che 2\sqrt{2}2​ sia razionale porta a una contraddizione, quindi 2\sqrt{2}2​ deve essere irrazionale.
+- **Passo 1**: Supponiamo che $ \sqrt{2} $ sia razionale, ovvero si possa scrivere come $ \frac{a}{b} $, con $ a $ e $ b $ interi e coprimi.
+- **Passo 2**: Squadrando entrambi i lati, otteniamo $ 2 = \frac{a^2}{b^2} $, cioè $ a^2 = 2b^2 $. Questo implica che $ a^2 $ è pari, e quindi $ a $ è pari.
+- **Passo 3**: Se $ a $ è pari, allora possiamo scrivere $ a = 2k $. Sostituendo nell'equazione otteniamo $ 4k^2 = 2b^2 $, cioè $ b^2 = 2k^2 $. Quindi anche $ b $ è pari.
+- **Passo 4**: Se sia $ a $ che $ b $ sono pari, questo contraddice l'ipotesi che $ a $ e $ b $ fossero coprimi.
+- **Conclusione**: La supposizione iniziale che $ \sqrt{2} $ sia razionale porta a una contraddizione, quindi $ \sqrt{2} $ deve essere irrazionale.
 
 ---
 
 ### Esempi semplici di metodi deduttivi
 
 1. **Modus Ponens**:
-    
     - Se studio, allora supero l'esame.
     - Studio.
     - Conclusione: Supero l'esame.
 2. **Modus Tollens**:
-    
     - Se mangio troppo, ingrasso.
     - Non sono ingrassato.
     - Conclusione: Non ho mangiato troppo.
 3. **Riduzione all'assurdo**:
-    
     - Supponiamo che il numero 10 non sia divisibile per 2.
     - Ma 10 diviso 2 dà 5, che è un numero intero.
     - Conclusione: L'ipotesi che 10 non sia divisibile per 2 è falsa, quindi 10 è divisibile per 2.

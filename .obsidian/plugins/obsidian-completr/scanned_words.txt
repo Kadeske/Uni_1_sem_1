@@ -1581,6 +1581,7 @@ CZu
 CynW
 CdA
 CbFJ
+Corretto
 Lang
 Length
 LastChar
@@ -1954,6 +1955,7 @@ Leq
 LWc
 LHH
 LBI
+Logica
 it
 iI
 im
@@ -3127,6 +3129,7 @@ Mbx
 Moo
 Mak
 MWq
+Materiale
 ViewerPreferences
 Va
 Vr
@@ -3875,6 +3878,10 @@ evw
 eeyNn
 eZhK
 eSn
+espressa
+esclusivamente
+effetto
+esprime
 Kids
 KH
 Ks
@@ -4633,6 +4640,7 @@ RiuX
 RzC
 Rgg
 Rwb
+Richiede
 ExtGState
 Et
 Encoding
@@ -5050,6 +5058,8 @@ Eymos
 EEk
 EAP
 EhT
+Errato
+Esprime
 GS
 Group
 GAZ
@@ -6618,6 +6628,7 @@ IaV
 IUp
 IIN
 IdTq
+Indica
 DeviceRGB
 DX
 Dz
@@ -7502,6 +7513,11 @@ sZP
 sAAi
 sWo
 snb
+stato
+sui
+significa
+semantico
+simboleggia
 br
 bhTH
 bF
@@ -7893,6 +7909,7 @@ bfe
 bVu
 bge
 bRR
+basa
 AQ
 Av
 Ascent
@@ -8299,6 +8316,8 @@ AvH
 AMH
 AHb
 AiP
+ATTENZIONE
+Attenzione
 aq
 aa
 ao
@@ -9116,6 +9135,8 @@ rlh
 rGa
 ruq
 rYke
+raggiunto
+ragionamento
 NQ
 Name
 Ni
@@ -9557,6 +9578,7 @@ NDz
 NGM
 NtT
 NAp
+NON
 BA
 BK
 BWi
@@ -11597,6 +11619,10 @@ cpvv
 cLr
 cqJ
 cET
+considerare
+connessione
+conseguenza
+causa
 UJ
 Uc
 UM
@@ -13137,6 +13163,7 @@ pPGNS
 poC
 plh
 pTGj
+proposizioni
 WaL
 Wl
 WWo
@@ -14990,6 +15017,7 @@ mue
 mbt
 mFE
 maw
+mancanza
 zJ
 zc
 zT
@@ -15682,6 +15710,7 @@ lJW
 lTuF
 lkFO
 lNH
+logicamente
 qT
 qH
 qJ
@@ -16470,6 +16499,7 @@ uAYD
 ukw
 unBP
 utL
+ugualmente
 YN
 YqT
 Yd
@@ -18012,6 +18042,8 @@ nMW
 nwT
 nyz
 nTG
+nonostante
+necessaria
 Subtype
 StemV
 Supplement
@@ -19904,6 +19936,10 @@ dgB
 dZNF
 dEN
 dzu
+desiderato
+derivabilit
+deducibile
+deduzione
 öG
 öx
 ös

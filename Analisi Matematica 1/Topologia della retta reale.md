@@ -36,8 +36,7 @@ $$I={x∈R∣a<x<b}⊂RI = \{x \in \mathbb{R} \mid a < x < b\} \subset \mathbb{R
 
 Un **intorno** di un punto $x_0$ è un intervallo aperto che contiene $x_0$, estendendosi sia a sinistra che a destra di esso.  
 Si rappresenta come:
-
-$$I(x0)={x∈R∣x0−r1<x<x0+r2}I(x_0) = \{x \in \mathbb{R} \mid x_0 - r_1 < x < x_0 + r_2\} I(x0​)={x∈R∣x0​−r1​<x<x0​+r2​}$$
+$$I(x0)={x∈R∣x0−r1<x<x0+r2}$$
 
 dove $r_1$ e $r_2$ sono numeri reali positivi che determinano l'estensione dell'intorno.
 
@@ -47,11 +46,11 @@ dove $r_1$ e $r_2$ sono numeri reali positivi che determinano l'estensione dell'
 
 Un **intorno circolare** è un intorno dove $r_1 = r_2$, quindi l'intervallo si estende della stessa quantità a sinistra e a destra del punto centrale $x_0$:
 
-$$Ir(x0)={x∈R∣x0−r<x<x0+r}I_r(x_0) = \{x \in \mathbb{R} \mid x_0 - r < x < x_0 + r\} Ir​(x0​)={x∈R∣x0​−r<x<x0​+r}$$
+$$Ir(x0)={x∈R∣x0−r<x<x0+r}$$
 
 In notazione con il **valore assoluto**:
 
-$$Ir(x0)={x∈R∣∣x−x0∣<r}I_r(x_0) = \{x \in \mathbb{R} \mid |x - x_0| < r\} Ir​(x0​)={x∈R∣∣x−x0​∣<r}$$
+$$Ir(x0)={x∈R∣∣x−x0∣<r}$$
 
 ---
 
@@ -59,11 +58,11 @@ $$Ir(x0)={x∈R∣∣x−x0∣<r}I_r(x_0) = \{x \in \mathbb{R} \mid |x - x_0| < 
 
 - **Intorno sinistro**: un intervallo che si estende solo a sinistra di un punto $x_0$:
 
-$$I(x0)={x∈R∣x0−r<x<x0}=(x0−r,x0)I(x_0) = \{x \in \mathbb{R} \mid x_0 - r < x < x_0\} = (x_0 - r, x_0) I(x0​)={x∈R∣x0​−r<x<x0​}=(x0​−r,x0​)$$
+$$I(x0)={x∈R∣x0−r<x<x0}=(x0−r,x0)$$
 
 - **Intorno destro**: un intervallo che si estende solo a destra di un punto $x_0$:
 
-$$I(x0)={x∈R∣x0<x<x0+r}=(x0,x0+r)I(x_0) = \{x \in \mathbb{R} \mid x_0 < x < x_0 + r\} = (x_0, x_0 + r) I(x0​)={x∈R∣x0​<x<x0​+r}=(x0​,x0​+r)$$
+$$I(x0)={x∈R∣x0<x<x0+r}=(x0,x0+r)$$
 
 ---
 
@@ -72,7 +71,7 @@ $$I(x0)={x∈R∣x0<x<x0+r}=(x0,x0+r)I(x_0) = \{x \in \mathbb{R} \mid x_0 < x < 
 Un punto $x_0$ è detto **punto interno** di un insieme $A \subseteq \mathbb{R}$ se esiste un intorno di $x_0$ contenuto interamente in $A$.  
 In simboli:
 
-$$∃Ir(x0)⊂Aconx0∈A\exists I_r(x_0) \subset A \quad \text{con} \quad x_0 \in A ∃Ir​(x0​)⊂Aconx0​∈A$$
+$$∃Ir(x0)⊂Aconx0∈A$$
 
 - **Esempio**: Se $A = (1, 3)$, il punto $x_0 = 2$ è interno a $A$ perché esiste un intorno di $x_0$ (ad esempio $(1.5, 2.5)$) che è completamente contenuto in $A$.
 
@@ -83,7 +82,7 @@ $$∃Ir(x0)⊂Aconx0∈A\exists I_r(x_0) \subset A \quad \text{con} \quad x_0 \i
 Un punto $x_0$ è detto **punto esterno** di un insieme $A \subseteq \mathbb{R}$ se esiste un intorno di $x_0$ che non contiene alcun punto di $A$.  
 In simboli:
 
-$$∃Ir(x0)⊂Acconx0∉A\exists I_r(x_0) \subset A^c \quad \text{con} \quad x_0 \notin A ∃Ir​(x0​)⊂Acconx0​∈/A$$
+$$∃Ir(x0)⊂Acconx0∉A$$
 
 - **Esempio**: Se $A = (1, 2)$, il punto $x_0 = 3$ è esterno ad $A$ perché esiste un intorno di $x_0$ (ad esempio $(2.5, 3.5)$) che non interseca $A$.
 
@@ -91,14 +90,27 @@ $$∃Ir(x0)⊂Acconx0∉A\exists I_r(x_0) \subset A^c \quad \text{con} \quad x_0
 
 ### Punti di frontiera o bordo
 
-Un punto $x_0$ è detto **punto di frontiera** di un insieme $A$ se in ogni intorno di $x_0$ ci sono sia punti di $A$ che punti del suo complementare $A^c$.  
-In simboli:
+Un punto di frontiera di un insieme A è un punto che **non è né interno né esterno all'insieme**
 
-$$∀Ir(x0), ∃x1∈Ae∃x2∈Acconx1≠x2\forall I_r(x_0), \ \exists x_1 \in A \quad \text{e} \quad \exists x_2 \in A^c \quad \text{con} \quad x_1 \neq x_2 ∀Ir​(x0​), ∃x1​∈Ae∃x2​∈Acconx1​=x2​$$
+Un **punto** è considerato **interno** ad un insieme A se esiste un intorno circolare del punto interamente contenuto in A
 
-- **Esempio**: Se $A = (1, 3)$, i punti $x_0 = 1$ e $x_0 = 3$ sono punti di frontiera, poiché ogni intorno di questi punti contiene sia elementi di $A$ che elementi fuori da $A$.
+Un **punto** è considerato **esterno** ad un insieme A se esiste un intorno circolare del punto interamente contenuto nel complementare di A.1
 
----
+In altre parole, un punto di frontiera "**tocca**" *sia l'insieme A che il suo complementare*. Ogni intorno di un punto di frontiera conterrà sempre punti sia dell'insieme A sia del suo complementare.
+
+##### Esempio
+Consideriamo l'intervallo A = {x ∈ R | 1 < x < 2}
+- Il punto x₀ = 2 è un punto di frontiera per A.
+	- x₀ non appartiene ad A.
+	- Qualsiasi intorno di x₀, per quanto piccolo, conterrà punti sia di A (ad esempio 1.999) sia del complementare di A (ad esempio 2.001).
+
+Punti di Frontiera e Insiemi Chiusi
+
+Un insieme è chiuso se contiene tutti i suoi punti di frontiera.3 Negli intervalli chiusi, tutti i punti sono di accumulazione, compresi gli estremi.
+
+Punti di Accumulazione
+Un punto di accumulazione per un insieme A è un punto tale che ogni suo intorno contiene almeno un punto di A diverso dal punto stesso. Un punto di frontiera può essere, ma non necessariamente, un punto di accumulazione.
+
 
 ### Punti di accumulazione
 

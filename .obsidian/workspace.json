@@ -6,95 +6,89 @@
       {
         "id": "9c6b4337fa97f72d",
         "type": "tabs",
+        "dimension": 56.392156862745104,
         "children": [
           {
-            "id": "329be909d13cde0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi Matematica 1/Teoria degli insiemi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teoria degli insiemi"
-            }
-          },
-          {
-            "id": "f1ae0480b7b38b90",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Analisi Matematica 1/IMG/Rnote/Esercizi_15_ott_24.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Esercizi_15_ott_24"
-            }
-          },
-          {
-            "id": "46a7440332f129e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi Matematica 1/Topologia della retta reale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Topologia della retta reale"
-            }
-          },
-          {
             "id": "3e278815b7ccf1f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi Matematica 1/Insiemi numerici/Insiemi numerici.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Insiemi numerici"
+            }
+          },
+          {
+            "id": "fde3b03b97dd0ac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi Matematica 1/Insiemi numerici/Numeri razionali.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Numeri razionali"
+            }
+          },
+          {
+            "id": "7e3aa0c3c0387dea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi Matematica 1/Calcolo infinitesimale/Limite destro e sinistro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limite destro e sinistro"
+            }
+          },
+          {
+            "id": "7f84396b6ce473d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi Matematica 1/Calcolo infinitesimale/Asintoto verticale.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asintoto verticale"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5d5d9c641eefa4c3",
+        "type": "tabs",
+        "dimension": 43.6078431372549,
+        "children": [
+          {
+            "id": "1367886155479513",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Analisi Matematica 1/PDF/7-Calcolo infinitesimale.pdf",
-                "page": 9,
-                "left": -12,
-                "top": 408,
-                "zoom": 1.2739583333333333
+                "page": 20,
+                "left": -29,
+                "top": 312,
+                "zoom": 0.525
               },
               "icon": "lucide-file-text",
               "title": "7-Calcolo infinitesimale"
             }
-          },
-          {
-            "id": "8c30bf380119d214",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi Matematica 1/Calcolo infinitesimale/L'Operazione di Limite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "L'Operazione di Limite"
-            }
-          },
-          {
-            "id": "d6b7ab39e4d5ad04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi Matematica 1/Calcolo infinitesimale/Limite finito che tende ad un numero.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Limite finito che tende ad un numero"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,27 +235,36 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8c30bf380119d214",
+  "active": "7e3aa0c3c0387dea",
   "lastOpenFiles": [
-    "Analisi Matematica 1/Calcolo infinitesimale/Limite infinito che tende ad un numero.md",
-    "Analisi Matematica 1/Calcolo infinitesimale/L'Operazione di Limite.md",
+    "Analisi Matematica 1/Insiemi numerici/Numeri naturali.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/Asintoto verticale.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/Limite destro e sinistro.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/1 - L'Operazione di Limite.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/Asintoto orizzontale.md",
     "Analisi Matematica 1/Calcolo infinitesimale/Limite finito che tende ad un numero.md",
+    "Analisi Matematica 1/IMG/Asintoto verticale 2.png",
+    "Analisi Matematica 1/IMG/Asintoto verticale 1.png",
+    "Analisi Matematica 1/Calcolo infinitesimale/Limite finito per x che tende a infinito.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/Limite infinito che tende ad un numero.md",
+    "Analisi Matematica 1/IMG/Rnote/Appunti_5_nov_24_.pdf",
+    "Analisi Matematica 1/IMG/Rnote/Appunti_25_ott_24.pdf",
     "Analisi Matematica 1/PDF/7-Calcolo infinitesimale.pdf",
-    "Analisi Matematica 1/PDF/5-Topologia della retta.pdf",
+    "Analisi Matematica 1/IMG/Rnote/Appunti_5_nov_24_.rnote",
+    "Programmazione 1/PDF/Dispense PR1.pdf",
+    "Programmazione 1/Anatomia di un programma C.md",
+    "Analisi Matematica 1/Insiemi numerici/Numeri interi.md",
+    "Analisi Matematica 1/Insiemi numerici/Numeri razionali.md",
+    "Analisi Matematica 1/PDF/4-Insiemi numerici.pdf",
+    "Analisi Matematica 1/Insiemi numerici/Insiemi numerici.md",
+    "Analisi Matematica 1/Insiemi numerici",
     "Analisi Matematica 1/Topologia della retta reale.md",
+    "Analisi Matematica 1/PDF/5-Topologia della retta.pdf",
     "Analisi Matematica 1/Calcolo infinitesimale",
     "Analisi Matematica 1/IMG/Rnote/Appunti_29_ott_24_.pdf",
-    "Analisi Matematica 1/IMG/Rnote/Appunti_29_ott_24_.rnote",
-    "Analisi Matematica 1/PDF/7-Calcolo infinitesimale.pdf.crdownload",
     "Analisi Matematica 1/Logica.md",
     "Excalidraw/Drawing 2024-10-14 13.33.59.excalidraw.md",
-    "Analisi Matematica 1/PDF/4-Insiemi numerici.pdf",
-    "Analisi Matematica 1/PDF/3-Relazioni e funzioni.pdf",
-    "Analisi Matematica 1/PDF/2-Insiemi.pdf",
-    "Analisi Matematica 1/PDF/6-Funzioni reali.pdf",
-    "Programmazione 1/Introduzione.md",
     "Analisi Matematica 1/Metodi deduttivi.md",
-    "Analisi Matematica 1/Insiemi numerici.md",
     "Analisi Matematica 1/Relazioni e funzioni.md",
     "Analisi Matematica 1/Teoria degli insiemi.md",
     "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",

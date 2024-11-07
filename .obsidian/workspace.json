@@ -4,88 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9c6b4337fa97f72d",
+        "id": "7f5a8448a08b1a84",
         "type": "tabs",
-        "dimension": 56.392156862745104,
         "children": [
           {
-            "id": "3e278815b7ccf1f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi Matematica 1/Insiemi numerici/Insiemi numerici.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Insiemi numerici"
-            }
-          },
-          {
-            "id": "fde3b03b97dd0ac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi Matematica 1/Insiemi numerici/Numeri razionali.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Numeri razionali"
-            }
-          },
-          {
-            "id": "7e3aa0c3c0387dea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi Matematica 1/Calcolo infinitesimale/Limite destro e sinistro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Limite destro e sinistro"
-            }
-          },
-          {
-            "id": "7f84396b6ce473d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi Matematica 1/Calcolo infinitesimale/Asintoto verticale.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Asintoto verticale"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "5d5d9c641eefa4c3",
-        "type": "tabs",
-        "dimension": 43.6078431372549,
-        "children": [
-          {
-            "id": "1367886155479513",
+            "id": "e471c1cc744119e9",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Analisi Matematica 1/PDF/7-Calcolo infinitesimale.pdf",
-                "page": 20,
-                "left": -29,
-                "top": 312,
-                "zoom": 0.525
+                "file": "Programmazione 1/rnote/Introduzione_mappa.pdf",
+                "page": 1,
+                "left": -22,
+                "top": 1590,
+                "zoom": 0.6865538735529831
               },
               "icon": "lucide-file-text",
-              "title": "7-Calcolo infinitesimale"
+              "title": "Introduzione_mappa"
             }
           }
         ]
@@ -144,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 394.5
   },
   "right": {
     "id": "5fa30262353c3f98",
@@ -235,43 +170,45 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7e3aa0c3c0387dea",
+  "active": "e471c1cc744119e9",
   "lastOpenFiles": [
-    "Analisi Matematica 1/Insiemi numerici/Numeri naturali.md",
+    "Programmazione 1/Introduzione.md",
+    "Programmazione 1/rnote/Introduzione_mappa.pdf",
+    "Programmazione 1/RISPOSTE PARZIALE 1/2019.md",
+    "Programmazione 1/RISPOSTE PARZIALE 1/2018.md",
+    "Programmazione 1/RISPOSTE PARZIALE 1/8 nov 2017.md",
+    "Programmazione 1/RISPOSTE PARZIALE 1/17 nov 2016.md",
+    "Programmazione 1/RISPOSTE PARZIALE 1/20 nov 2015.md",
+    "Programmazione 1/RISPOSTE PARZIALE 1/11 nov 2014.md",
+    "Programmazione 1/RISPOSTE PARZIALE 1/12 nov 2013.md",
+    "Programmazione 1/RISPOSTE PARZIALE 1/13 nov 2012.md",
+    "Programmazione 1/DATE IMPORTANTI.md",
+    "Programmazione 1/RISPOSTE PARZIALE 1/RISPOSTE PARZIALE 1.md",
+    "Programmazione 1/RISPOSTE PARZIALE 1/25 ott 2011.md",
+    "Programmazione 1/RISPOSTE PARZIALE 1/26 nov 2010.md",
+    "Programmazione 1/PDF/Dispense PR1.pdf",
+    "Programmazione 1/RISPOSTE PARZIALE 1",
+    "Programmazione 1/Anatomia di un programma C.md",
+    "Limite infinito che tende ad inifito.md",
+    "Limite infinito che tende a infinito.md",
+    "Analisi Matematica 1/PDF/7-Calcolo infinitesimale.pdf",
     "Analisi Matematica 1/Calcolo infinitesimale/Asintoto verticale.md",
-    "Analisi Matematica 1/Calcolo infinitesimale/Limite destro e sinistro.md",
     "Analisi Matematica 1/Calcolo infinitesimale/1 - L'Operazione di Limite.md",
-    "Analisi Matematica 1/Calcolo infinitesimale/Asintoto orizzontale.md",
+    "Analisi Matematica 1/IMG/Rnote/Tutoraggio_6_nov_.rnote",
+    "Analisi Matematica 1/IMG/Rnote/Tutorato_16_ott_.pdf",
+    "Analisi Matematica 1/Calcolo infinitesimale/Limite finito che tende a infinito.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/Limite infinito che tende ad infinito.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/Teorema della permanenza del segno.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/Teorema di unicità.md",
     "Analisi Matematica 1/Calcolo infinitesimale/Limite finito che tende ad un numero.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/Limite infinito che tende ad un numero.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/Limite finito per x che tende a infinit.md",
     "Analisi Matematica 1/IMG/Asintoto verticale 2.png",
     "Analisi Matematica 1/IMG/Asintoto verticale 1.png",
-    "Analisi Matematica 1/Calcolo infinitesimale/Limite finito per x che tende a infinito.md",
-    "Analisi Matematica 1/Calcolo infinitesimale/Limite infinito che tende ad un numero.md",
     "Analisi Matematica 1/IMG/Rnote/Appunti_5_nov_24_.pdf",
     "Analisi Matematica 1/IMG/Rnote/Appunti_25_ott_24.pdf",
-    "Analisi Matematica 1/PDF/7-Calcolo infinitesimale.pdf",
     "Analisi Matematica 1/IMG/Rnote/Appunti_5_nov_24_.rnote",
-    "Programmazione 1/PDF/Dispense PR1.pdf",
-    "Programmazione 1/Anatomia di un programma C.md",
-    "Analisi Matematica 1/Insiemi numerici/Numeri interi.md",
-    "Analisi Matematica 1/Insiemi numerici/Numeri razionali.md",
     "Analisi Matematica 1/PDF/4-Insiemi numerici.pdf",
-    "Analisi Matematica 1/Insiemi numerici/Insiemi numerici.md",
-    "Analisi Matematica 1/Insiemi numerici",
-    "Analisi Matematica 1/Topologia della retta reale.md",
-    "Analisi Matematica 1/PDF/5-Topologia della retta.pdf",
-    "Analisi Matematica 1/Calcolo infinitesimale",
-    "Analisi Matematica 1/IMG/Rnote/Appunti_29_ott_24_.pdf",
-    "Analisi Matematica 1/Logica.md",
-    "Excalidraw/Drawing 2024-10-14 13.33.59.excalidraw.md",
-    "Analisi Matematica 1/Metodi deduttivi.md",
-    "Analisi Matematica 1/Relazioni e funzioni.md",
-    "Analisi Matematica 1/Teoria degli insiemi.md",
-    "Excalidraw/Drawing 2024-10-14 13.55.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-14 13.43.44.excalidraw.md",
-    "Analisi Matematica 1/IMG/Schema_insiemi_numerici.png",
-    "Anali.md",
-    "Benvenuto.md",
-    "Excalidraw/Drawing 2024-10-11 23.34.21.excalidraw.md"
+    "Analisi Matematica 1/IMG/Schema_insiemi_numerici.png"
   ]
 }

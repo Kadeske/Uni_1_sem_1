@@ -12,7 +12,7 @@ Esistono diverse tipologie di limite:
 
 - [**Limite infinito per**](Limite%20infinito%20che%20tende%20ad%20un%20numero) $x \to x_0$: si ha quando la funzione cresce illimitatamente (tende a $+\infty$) o decresce illimitatamente (tende a $-\infty$) quando $x$ si avvicina a $x_0$.
 
-- [**Limite finito per**](Limite%20finito%20per%20x%20che%20tende%20a%20infinito) $x \to \infty$: si ha quando la funzione si avvicina a un valore finito $l$ quando $x$ cresce illimitatamente ($x \to +\infty$) o decresce illimitatamente ($x \to -\infty$).
+- [**Limite finito per**](Limite%20finito%20che%20tende%20a%20infinito.md) $x \to \infty$: si ha quando la funzione si avvicina a un valore finito $l$ quando $x$ cresce illimitatamente ($x \to +\infty$) o decresce illimitatamente ($x \to -\infty$).
 
 - **Limite infinito per** $x \to \infty$: si ha quando la funzione cresce o decresce illimitatamente quando $x$ tende a $+\infty$ o $-\infty$.
 

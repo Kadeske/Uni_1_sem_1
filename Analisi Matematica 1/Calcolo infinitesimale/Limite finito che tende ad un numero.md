@@ -1,3 +1,10 @@
+### Da ricordare
+**Significato intuitivo:** Quando $x$ si avvicina a $x_0$, il valore di $f(x)$ si avvicina a $l$.
+
+**Asintoto:** Non genera un asintoto.
+
+Importante per il  **[[Teorema di unicità]]**
+
 # Definizione di Limite Finito per $x$ che Tende a $x_0$
 
 #### Definizione in notazione matematica

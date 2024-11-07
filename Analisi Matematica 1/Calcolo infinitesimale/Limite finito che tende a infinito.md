@@ -1,3 +1,8 @@
+### Definizioni veloci
+**Significato intuitivo:** Quando $x$ diventa arbitrariamente grande, $f(x)$ si avvicina a $l$.
+
+**Asintoto:** Genera un asintoto orizzontale di equazione $y = l$.
+
 ## **Limite infinito per $x$ che tende a $x_0$**
 
 Sia $f: A \to \mathbb{R}$ una funzione definita su un sottoinsieme $A \subset \mathbb{R}$ e sia $x_0$ un **punto di accumulazione** per $A$.

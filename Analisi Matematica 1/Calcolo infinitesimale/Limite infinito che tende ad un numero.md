@@ -1,3 +1,8 @@
+### Da ricordare
+**Significato intuitivo:** Quando $x$ si avvicina a $x_0$, il valore assoluto di $f(x)$ diventa arbitrariamente grande.
+
+**Asintoto:** Genera un asintoto verticale di equazione $x = x_0$.
+
 ## Definizione di Limite Infinito per $x$ che Tende a $x_0$
 
 #### Definizione in notazione matematica

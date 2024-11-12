@@ -13,14 +13,46 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Programmazione 1/rnote/Introduzione_mappa.pdf",
+                "file": "Programmazione 1/PDF/Riassunto_parziale1.pdf",
                 "page": 1,
-                "left": -22,
-                "top": 1590,
-                "zoom": 0.6865538735529831
+                "left": -10,
+                "top": 796,
+                "zoom": 1.4681372549019607
               },
               "icon": "lucide-file-text",
-              "title": "Introduzione_mappa"
+              "title": "Riassunto_parziale1"
+            }
+          },
+          {
+            "id": "b68e8145820701d2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Programmazione 1/PDF/Dispense PR1.pdf",
+                "page": 14,
+                "left": -7,
+                "top": 571,
+                "zoom": 2.1131381453773197
+              },
+              "icon": "lucide-file-text",
+              "title": "Dispense PR1"
+            }
+          },
+          {
+            "id": "8ee40cc3215b25fd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Analisi Matematica 1/PDF/7-Calcolo infinitesimale.pdf",
+                "page": 42,
+                "left": -12,
+                "top": 517,
+                "zoom": 1.2479166666666666
+              },
+              "icon": "lucide-file-text",
+              "title": "7-Calcolo infinitesimale"
             }
           }
         ]
@@ -79,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 224.5
   },
   "right": {
     "id": "5fa30262353c3f98",
@@ -172,8 +204,16 @@
   },
   "active": "e471c1cc744119e9",
   "lastOpenFiles": [
-    "Programmazione 1/Introduzione.md",
+    "Programmazione 1/PDF/Dispense PR1.pdf",
+    "Programmazione 1/PDF/Riassunto_parziale1.pdf",
+    "Programmazione 1/PDF/lu376467tv.tmp",
     "Programmazione 1/rnote/Introduzione_mappa.pdf",
+    "Programmazione 1/rnote/Parziale_2_2023_2024.rnote",
+    "Programmazione 1/Anatomia di un programma C.md",
+    "Analisi Matematica 1/PDF/7-Calcolo infinitesimale.pdf",
+    "Analisi Matematica 1/IMG/Rnote/Appunti_8_nov_24_.rnote",
+    "Programmazione 1/rnote/Strutture_del_linguaggio.rnote",
+    "Programmazione 1/Introduzione.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/2019.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/2018.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/8 nov 2017.md",
@@ -186,12 +226,9 @@
     "Programmazione 1/RISPOSTE PARZIALE 1/RISPOSTE PARZIALE 1.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/25 ott 2011.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/26 nov 2010.md",
-    "Programmazione 1/PDF/Dispense PR1.pdf",
     "Programmazione 1/RISPOSTE PARZIALE 1",
-    "Programmazione 1/Anatomia di un programma C.md",
     "Limite infinito che tende ad inifito.md",
     "Limite infinito che tende a infinito.md",
-    "Analisi Matematica 1/PDF/7-Calcolo infinitesimale.pdf",
     "Analisi Matematica 1/Calcolo infinitesimale/Asintoto verticale.md",
     "Analisi Matematica 1/Calcolo infinitesimale/1 - L'Operazione di Limite.md",
     "Analisi Matematica 1/IMG/Rnote/Tutoraggio_6_nov_.rnote",
@@ -205,10 +242,6 @@
     "Analisi Matematica 1/Calcolo infinitesimale/Limite finito per x che tende a infinit.md",
     "Analisi Matematica 1/IMG/Asintoto verticale 2.png",
     "Analisi Matematica 1/IMG/Asintoto verticale 1.png",
-    "Analisi Matematica 1/IMG/Rnote/Appunti_5_nov_24_.pdf",
-    "Analisi Matematica 1/IMG/Rnote/Appunti_25_ott_24.pdf",
-    "Analisi Matematica 1/IMG/Rnote/Appunti_5_nov_24_.rnote",
-    "Analisi Matematica 1/PDF/4-Insiemi numerici.pdf",
     "Analisi Matematica 1/IMG/Schema_insiemi_numerici.png"
   ]
 }

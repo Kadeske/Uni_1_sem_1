@@ -689,6 +689,10 @@ Permette
 Prima
 Pubblicazione
 Programming
+PByi
+Placement
+ParentTree
+PageMode
 obj
 oL
 oy
@@ -1288,6 +1292,7 @@ operandi
 operando
 occupa
 ordinata
+omn
 Type
 Transparency
 Tabs
@@ -1965,6 +1970,8 @@ TRe
 TYN
 TPh
 The
+TXM
+Table
 Catalog
 Count
 Contents
@@ -2618,6 +2625,10 @@ CPR
 CzD
 Con
 CPU
+CzI
+CfshD
+CAAAAA
+Code
 Lang
 Length
 LastChar
@@ -3232,6 +3243,14 @@ Lettura
 Lisp
 Labs
 Language
+LiberationMono
+LHX
+Last
+Layout
+Lbl
+LBody
+List
+ListNumbering
 it
 iI
 im
@@ -3922,6 +3941,7 @@ inizializzare
 importanti
 introdotto
 informazione
+iRCY
 Outlines
 Os
 Ordering
@@ -4545,6 +4565,8 @@ Oad
 OuE
 OVRK
 ORPL
+OwAX
+OpenAction
 Metadata
 MediaBox
 Mk
@@ -5173,6 +5195,9 @@ MEcJ
 MKdq
 Mad
 MqK
+MuL
+MarkInfo
+Marked
 ViewerPreferences
 Va
 Vr
@@ -5757,6 +5782,8 @@ Vhc
 VPh
 Von
 Vero
+VpJ
+VSE
 endobj
 endstream
 eA
@@ -7695,6 +7722,8 @@ Risposta
 Rende
 Restituisce
 Ritchie
+RJCr
+RoleMap
 ExtGState
 Et
 Encoding
@@ -8383,6 +8412,9 @@ EEEi
 EdF
 Esame
 Esegue
+Eqj
+EndIndent
+Emphasis
 GS
 Group
 GAZ
@@ -9002,6 +9034,10 @@ GvI
 Gbmx
 GozW
 Giustificare
+Ggh
+GAi
+Ghg
+GNC
 Font
 Filter
 FlateDecode
@@ -9618,6 +9654,10 @@ FHsE
 FYT
 FIPv
 Falso
+FAAAAA
+FKS
+FSm
+FEFF
 XObject
 XE
 XHeight
@@ -10199,6 +10239,8 @@ XbF
 Xhlj
 Xyv
 XSy
+XdTt
+XnR
 Image
 IK
 IT
@@ -10873,6 +10915,9 @@ IzrL
 Iye
 Iterazione
 ISO
+Imc
+IGI
+Inline
 DeviceRGB
 DX
 Dz
@@ -11571,6 +11616,10 @@ Deve
 Date
 Dennis
 Disciplina
+DBBm
+Disc
+Document
+DocChecksum
 stream
 sL
 sQ
@@ -12349,6 +12398,7 @@ successivo
 stile
 sviluppato
 scientifica
+sWP
 br
 bhTH
 bF
@@ -13002,6 +13052,8 @@ bvA
 binario
 bit
 basso
+bMy
+body
 AQ
 Av
 Ascent
@@ -13636,6 +13688,8 @@ Avendo
 Approvazione
 ANSI
 Algoritmi
+AcIF
+Aib
 aq
 aa
 ao
@@ -14364,6 +14418,8 @@ astrazione
 associativit
 allo
 assembly
+akn
+axU
 rZ
 rB
 rc
@@ -15722,6 +15778,11 @@ NiD
 NRHTOo
 Neumann
 Nonostante
+NwN
+NDB
+NoW
+NotoSerif
+Nums
 BA
 BK
 BWi
@@ -16380,6 +16441,10 @@ BMYb
 BuxC
 Böhm
 Bell
+BZhG
+BbF
+Block
+BBBA
 fg
 fR
 fU
@@ -17650,6 +17715,7 @@ JIjy
 JaC
 JvC
 Jacopini
+JNMKJ
 vG
 vB
 vX
@@ -18317,6 +18383,7 @@ valutazione
 vita
 versione
 veniva
+vZg
 cO
 cY
 cOn
@@ -19086,6 +19153,8 @@ costrutto
 consente
 crea
 codice
+cvr
+cSMD
 UJ
 Uc
 UM
@@ -19727,6 +19796,8 @@ UXF
 UHD
 Utilizzando
 UNIX
+UNL
+UseOutlines
 hPMk
 hR
 hu
@@ -20322,6 +20393,8 @@ hGS
 hUY
 hid
 hurJ
+hnN
+hkFf
 gQ
 gr
 gT
@@ -21685,6 +21758,10 @@ processing
 principalmente
 portabilit
 primo
+pxF
+poEK
+pBJ
+pvNc
 WaL
 Wl
 WWo
@@ -22275,6 +22352,8 @@ Wqm
 WhL
 WRiA
 Wbu
+Wjhd
+WrK
 kw
 ky
 ko
@@ -22880,6 +22959,8 @@ kZC
 kJQDY
 kHB
 keystroke
+kjF
+kLB
 ji
 jP
 jH
@@ -23486,6 +23567,10 @@ jxq
 jCp
 jHV
 jkd
+jdON
+jQl
+jnI
+jOi
 wr
 wB
 we
@@ -24083,6 +24168,8 @@ wfy
 wZu
 wvoNE
 wsu
+wlY
+wOLN
 mc
 mf
 mm
@@ -24746,6 +24833,7 @@ memoria
 mnemonici
 macroespansione
 macro
+mhX
 zJ
 zc
 zT
@@ -25937,6 +26025,8 @@ lvalue
 legato
 lettura
 libro
+lGT
+lhb
 qT
 qH
 qJ
@@ -26573,6 +26663,7 @@ qAB
 qjlV
 quali
 qual
+qNPzV
 uO
 uo
 uN
@@ -27255,6 +27346,7 @@ utilizzi
 utilizzata
 utilizzabile
 ultima
+uAv
 YN
 YqT
 Yd
@@ -27823,6 +27915,8 @@ YEH
 YVJ
 Yzp
 YFV
+YLQ
+YZPXnB
 xn
 xz
 xb
@@ -28426,6 +28520,8 @@ xJW
 xyI
 xXe
 xpv
+xxl
+xPI
 ty
 tE
 tq
@@ -29127,6 +29223,9 @@ tavola
 tasto
 time
 tradotto
+tjhS
+tbI
+tAy
 nnWd
 nv
 nd
@@ -29770,6 +29869,8 @@ novembre
 nomi
 noto
 nota
+nXG
+njs
 Subtype
 StemV
 Supplement
@@ -30412,6 +30513,19 @@ Sequenza
 Selezione
 STORE
 Scrittura
+SQG
+SCw
+Swd
+ScF
+StructParents
+StructElem
+SpaceBefore
+Standard
+SpaceAfter
+StartIndent
+Strong
+StructTreeRoot
+Span
 Zf
 ZK
 ZM
@@ -31020,6 +31134,7 @@ ZsW
 ZkF
 ZcK
 ZxQ
+ZMk
 Height
 HE
 HJ
@@ -32244,6 +32359,7 @@ QTx
 QGh
 QBq
 Quali
+QsbP
 dQ
 dg
 dS
@@ -33591,6 +33707,7 @@ yRZM
 yoif
 yzn
 yAVyx
+yYa
 Ät
 ÄZ
 Äc
@@ -33629,6 +33746,7 @@ yAVyx
 äFF
 äB
 äKN
+äüöß
 üJ
 üw
 üMh
@@ -33644,3 +33762,4 @@ yAVyx
 ÜxKP
 ÜQyI
 Ük
+Üc

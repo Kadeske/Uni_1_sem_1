@@ -4,55 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7f5a8448a08b1a84",
+        "id": "688990389ee6f281",
         "type": "tabs",
         "children": [
           {
-            "id": "e471c1cc744119e9",
+            "id": "4289fd75bfb604e8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Programmazione 1/PDF/Riassunto_parziale1.pdf",
-                "page": 1,
-                "left": -10,
-                "top": 796,
-                "zoom": 1.4681372549019607
+                "file": "Fondamenti di Informatica/Semplificazione espressioni booleane.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Riassunto_parziale1"
-            }
-          },
-          {
-            "id": "b68e8145820701d2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Programmazione 1/PDF/Dispense PR1.pdf",
-                "page": 14,
-                "left": -7,
-                "top": 571,
-                "zoom": 2.1131381453773197
-              },
-              "icon": "lucide-file-text",
-              "title": "Dispense PR1"
-            }
-          },
-          {
-            "id": "8ee40cc3215b25fd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Analisi Matematica 1/PDF/7-Calcolo infinitesimale.pdf",
-                "page": 42,
-                "left": -12,
-                "top": 517,
-                "zoom": 1.2479166666666666
-              },
-              "icon": "lucide-file-text",
-              "title": "7-Calcolo infinitesimale"
+              "icon": "lucide-file",
+              "title": "Semplificazione espressioni booleane"
             }
           }
         ]
@@ -202,44 +168,44 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e471c1cc744119e9",
+  "active": "4289fd75bfb604e8",
   "lastOpenFiles": [
-    "Programmazione 1/PDF/Dispense PR1.pdf",
-    "Programmazione 1/PDF/Riassunto_parziale1.pdf",
-    "Programmazione 1/PDF/lu376467tv.tmp",
-    "Programmazione 1/rnote/Introduzione_mappa.pdf",
-    "Programmazione 1/rnote/Parziale_2_2023_2024.rnote",
+    "Fondamenti di Informatica/Mappa di Karnaugh e funzione logica.md",
+    "Fondamenti di Informatica/Semplificazione espressioni booleane.md",
+    "Fondamenti di Informatica/PREPARAZIONE PER ESAME TOTALE.md",
+    "Fondamenti di Informatica/Complemento a 2 con numeri.md",
+    "Programmazione 1/Progetto finale.md",
+    "Fondamenti di Informatica/PDF/Parte2_d.pdf",
+    "Fondamenti di Informatica/IMG/rnote/si.rnote",
+    "Analisi Matematica 1/PDF/9-Successioni e Serie.pdf",
+    "Analisi Matematica 1/IMG/Rnote/derivate.rnote",
+    "Analisi Matematica 1/IMG/Rnote/Integrali.rnote",
+    "Analisi Matematica 1/PDF/10-Calcolo integrale.pdf",
+    "Analisi Matematica 1/PDF/10-Calcolo integrale.pdf.crdownload",
+    "Analisi Matematica 1/PDF/9-Successioni.pdf",
+    "Analisi Matematica 1/PDF/9-Successioni e Serie.pdf.crdownload",
+    "Analisi Matematica 1/PDF/Analisi matematica (Vol. 1)_ (Z-Library).pdf",
+    "Analisi Matematica 1/Calcolo infinitesimale/Forme indeterminate.md",
+    "Analisi Matematica 1/Teoria degli insiemi.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/Teorema della permanenza del segno.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/Teorema di unicità.md",
+    "Programmazione 1/Flussi di controllo.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/Calcolo limiti di funzioni composte.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/Continuità di una funzione composta.md",
+    "Analisi Matematica 1/Calcolo infinitesimale/Asintoto verticale.md",
+    "Programmazione 1/Riassunto per parziale 1 PR1M1.md",
+    "Programmazione 1/RISPOSTE PARZIALE 1/11 nov 2014.md",
+    "Programmazione 1/RISPOSTE PARZIALE 1/8 nov 2017.md",
     "Programmazione 1/Anatomia di un programma C.md",
-    "Analisi Matematica 1/PDF/7-Calcolo infinitesimale.pdf",
-    "Analisi Matematica 1/IMG/Rnote/Appunti_8_nov_24_.rnote",
-    "Programmazione 1/rnote/Strutture_del_linguaggio.rnote",
     "Programmazione 1/Introduzione.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/2019.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/2018.md",
-    "Programmazione 1/RISPOSTE PARZIALE 1/8 nov 2017.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/17 nov 2016.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/20 nov 2015.md",
-    "Programmazione 1/RISPOSTE PARZIALE 1/11 nov 2014.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/12 nov 2013.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/13 nov 2012.md",
     "Programmazione 1/DATE IMPORTANTI.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/RISPOSTE PARZIALE 1.md",
-    "Programmazione 1/RISPOSTE PARZIALE 1/25 ott 2011.md",
-    "Programmazione 1/RISPOSTE PARZIALE 1/26 nov 2010.md",
-    "Programmazione 1/RISPOSTE PARZIALE 1",
-    "Limite infinito che tende ad inifito.md",
-    "Limite infinito che tende a infinito.md",
-    "Analisi Matematica 1/Calcolo infinitesimale/Asintoto verticale.md",
-    "Analisi Matematica 1/Calcolo infinitesimale/1 - L'Operazione di Limite.md",
-    "Analisi Matematica 1/IMG/Rnote/Tutoraggio_6_nov_.rnote",
-    "Analisi Matematica 1/IMG/Rnote/Tutorato_16_ott_.pdf",
-    "Analisi Matematica 1/Calcolo infinitesimale/Limite finito che tende a infinito.md",
-    "Analisi Matematica 1/Calcolo infinitesimale/Limite infinito che tende ad infinito.md",
-    "Analisi Matematica 1/Calcolo infinitesimale/Teorema della permanenza del segno.md",
-    "Analisi Matematica 1/Calcolo infinitesimale/Teorema di unicità.md",
-    "Analisi Matematica 1/Calcolo infinitesimale/Limite finito che tende ad un numero.md",
-    "Analisi Matematica 1/Calcolo infinitesimale/Limite infinito che tende ad un numero.md",
-    "Analisi Matematica 1/Calcolo infinitesimale/Limite finito per x che tende a infinit.md",
     "Analisi Matematica 1/IMG/Asintoto verticale 2.png",
     "Analisi Matematica 1/IMG/Asintoto verticale 1.png",
     "Analisi Matematica 1/IMG/Schema_insiemi_numerici.png"

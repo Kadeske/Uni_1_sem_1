@@ -111,3 +111,4 @@ La **cardinalità** del prodotto cartesiano è il prodotto delle cardinalità de
 2. **Prodotto cartesiano**:
     
     - Se $A = {x, y}$ e $B = {1, 2}$, allora $A \times B = {(x, 1), (x, 2), (y, 1), (y, 2)}$.
+

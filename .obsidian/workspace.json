@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti di Informatica/Semplificazione espressioni booleane.md",
+                "file": "Fondamenti di Informatica/PREPARAZIONE PER ESAME TOTALE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semplificazione espressioni booleane"
+              "title": "PREPARAZIONE PER ESAME TOTALE"
+            }
+          },
+          {
+            "id": "df80905e28636ea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fondamenti di Informatica/Conversione in IEEE 754.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conversione in IEEE 754"
             }
           }
         ]
@@ -170,9 +184,28 @@
   },
   "active": "4289fd75bfb604e8",
   "lastOpenFiles": [
-    "Fondamenti di Informatica/Mappa di Karnaugh e funzione logica.md",
-    "Fondamenti di Informatica/Semplificazione espressioni booleane.md",
+    "Fondamenti di Informatica/CIRCUITO SOMMATORE.md",
     "Fondamenti di Informatica/PREPARAZIONE PER ESAME TOTALE.md",
+    "Fondamenti di Informatica/Conversione in IEEE 754.md",
+    "Fondamenti di Informatica/CIRCUITO COMPLEMENTO A 2.md",
+    "Fondamenti di Informatica/IMG/altre/Pasted image 20241226224520.png",
+    "Fondamenti di Informatica/IMG/altre/Pasted image 20241226223959.png",
+    "Fondamenti di Informatica/IMG/altre/Pasted image 20241226223935.png",
+    "Fondamenti di Informatica/IMG/altre/Pasted image 20241226223733.png",
+    "Fondamenti di Informatica/IMG/altre/Pasted image 20241226220746.png",
+    "Fondamenti di Informatica/IMG/altre/Pasted image 20241226220152.png",
+    "Fondamenti di Informatica/IMG/altre/Pasted image 20241226215501.png",
+    "Fondamenti di Informatica/IMG/altre/Pasted image 20241226215216.png",
+    "Programmazione 1/Riassunto per parziale 1 PR1M1.md",
+    "Fondamenti di Informatica/IMG/altre/Pasted image 20241226214021.png",
+    "Fondamenti di Informatica/IMG/altre/Pasted image 20241226213430.png",
+    "Fondamenti di Informatica/IMG/altre",
+    "Fondamenti di Informatica/PDF/Parte3_d.pdf",
+    "Fondamenti di Informatica/PDF/Parte3_d.pdf.crdownload",
+    "Fondamenti di Informatica/PDF/Reti sequenziali parte2.pdf",
+    "Fondamenti di Informatica/PDF/Reti sequenziali parte2.pdf.crdownload",
+    "Fondamenti di Informatica/Semplificazione espressioni booleane.md",
+    "Fondamenti di Informatica/Mappa di Karnaugh e funzione logica.md",
     "Fondamenti di Informatica/Complemento a 2 con numeri.md",
     "Programmazione 1/Progetto finale.md",
     "Fondamenti di Informatica/PDF/Parte2_d.pdf",
@@ -180,11 +213,6 @@
     "Analisi Matematica 1/PDF/9-Successioni e Serie.pdf",
     "Analisi Matematica 1/IMG/Rnote/derivate.rnote",
     "Analisi Matematica 1/IMG/Rnote/Integrali.rnote",
-    "Analisi Matematica 1/PDF/10-Calcolo integrale.pdf",
-    "Analisi Matematica 1/PDF/10-Calcolo integrale.pdf.crdownload",
-    "Analisi Matematica 1/PDF/9-Successioni.pdf",
-    "Analisi Matematica 1/PDF/9-Successioni e Serie.pdf.crdownload",
-    "Analisi Matematica 1/PDF/Analisi matematica (Vol. 1)_ (Z-Library).pdf",
     "Analisi Matematica 1/Calcolo infinitesimale/Forme indeterminate.md",
     "Analisi Matematica 1/Teoria degli insiemi.md",
     "Analisi Matematica 1/Calcolo infinitesimale/Teorema della permanenza del segno.md",
@@ -193,7 +221,6 @@
     "Analisi Matematica 1/Calcolo infinitesimale/Calcolo limiti di funzioni composte.md",
     "Analisi Matematica 1/Calcolo infinitesimale/Continuità di una funzione composta.md",
     "Analisi Matematica 1/Calcolo infinitesimale/Asintoto verticale.md",
-    "Programmazione 1/Riassunto per parziale 1 PR1M1.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/11 nov 2014.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/8 nov 2017.md",
     "Programmazione 1/Anatomia di un programma C.md",
@@ -201,13 +228,6 @@
     "Programmazione 1/RISPOSTE PARZIALE 1/2019.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/2018.md",
     "Programmazione 1/RISPOSTE PARZIALE 1/17 nov 2016.md",
-    "Programmazione 1/RISPOSTE PARZIALE 1/20 nov 2015.md",
-    "Programmazione 1/RISPOSTE PARZIALE 1/12 nov 2013.md",
-    "Programmazione 1/RISPOSTE PARZIALE 1/13 nov 2012.md",
-    "Programmazione 1/DATE IMPORTANTI.md",
-    "Programmazione 1/RISPOSTE PARZIALE 1/RISPOSTE PARZIALE 1.md",
-    "Analisi Matematica 1/IMG/Asintoto verticale 2.png",
-    "Analisi Matematica 1/IMG/Asintoto verticale 1.png",
-    "Analisi Matematica 1/IMG/Schema_insiemi_numerici.png"
+    "Programmazione 1/RISPOSTE PARZIALE 1/20 nov 2015.md"
   ]
 }

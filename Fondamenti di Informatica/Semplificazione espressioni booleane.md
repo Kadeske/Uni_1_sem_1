@@ -659,5 +659,3 @@ $$
 B \cdot D + C \cdot D + A \cdot C \cdot \overline{B} + \overline{A} \cdot B \cdot \overline{C} + A \cdot \overline{B} \cdot C
 $$
 ---
-
-Con questi esercizi, abbiamo esplorato come semplificare espressioni booleane complesse tramite l'espansione, la fattorizzazione e l'applicazione delle leggi booleane. Se desideri ulteriori chiarimenti o altri esercizi, non esitare a chiedere!

@@ -1624,6 +1624,7 @@ PCCCzz
 PiHee
 Puglisi
 Pugli
+Procediamo
 obj
 oL
 oy
@@ -3122,6 +3123,10 @@ oGg
 oGk
 orfano
 orfani
+osserviamo
+overline
+ottenute
+ognuno
 Type
 Transparency
 Tabs
@@ -6234,6 +6239,10 @@ Cominciamo
 Circuito
 Cout
 Chiede
+Costruiamo
+Costruire
+Calcoliamo
+Connettiamo
 Lang
 Length
 LastChar
@@ -9324,6 +9333,11 @@ inutile
 incasinare
 inserito
 ingresso
+indispensabili
+infatti
+invertire
+input
+ingressi
 Outlines
 Os
 Ordering
@@ -12308,6 +12322,7 @@ Medi
 Media
 MMMV
 MJJ
+Motivazione
 ViewerPreferences
 Va
 Vr
@@ -15384,6 +15399,10 @@ eIP
 eSRR
 effettui
 esamesss
+eventualit
+ecco
+entrate
+evolversi
 Kids
 KH
 Ks
@@ -18469,6 +18488,7 @@ Raggruppamenti
 Raggruppare
 Raggruppiamo
 Resto
+Reset
 ExtGState
 Et
 Encoding
@@ -21494,6 +21514,7 @@ GGFC
 GIOCATORE
 Gruppo
 Gzzzxxxww
+GIUSTO
 Font
 Filter
 FlateDecode
@@ -27522,6 +27543,9 @@ Dgt
 Dati
 Difficolt
 Difficili
+Definiamo
+Derivare
+Disegnare
 stream
 sL
 sQ
@@ -29245,6 +29269,15 @@ segna
 secondo
 solitamente
 svolti
+saranno
+siamo
+semplificabile
+segnali
+settare
+sommare
+simulabili
+sesto
+seguendo
 br
 bhTH
 bF
@@ -30758,6 +30791,7 @@ bnn
 bAC
 buttato
 brutto
+baster
 AQ
 Av
 Ascent
@@ -32313,6 +32347,8 @@ Analizzare
 AvEQ
 Adder
 ACin
+Abbiamo
+Analizzando
 aq
 aa
 ao
@@ -33937,6 +33973,12 @@ aHO
 avB
 adder
 adattandolo
+avremo
+accade
+avviene
+attuale
+analizziamo
+aggiornata
 rZ
 rB
 rc
@@ -35443,6 +35485,11 @@ riconoscere
 riport
 rubato
 riconoscerlo
+rubata
+relativi
+ricavare
+resettare
+risultati
 NQ
 Name
 Ni
@@ -38498,6 +38545,7 @@ Bit
 BpB
 BCin
 BALLLLLORDO
+Basandoci
 fg
 fR
 fU
@@ -40051,6 +40099,9 @@ fanno
 fianco
 fregarti
 full
+flip
+flop
+fisici
 JV
 JFIF
 JH
@@ -43084,6 +43135,9 @@ vMuuuuuWuXk
 vUy
 vHdq
 viene
+voler
+valido
+variazioni
 cO
 cY
 cOn
@@ -44828,6 +44882,14 @@ capirci
 cattivi
 chiesto
 centipede
+complementando
+corrente
+combinazione
+cambiamento
+controllano
+combinatorio
+collegare
+combinare
 UJ
 Uc
 UM
@@ -46307,6 +46369,7 @@ ULL
 UUC
 UWWGEE
 Utile
+Usare
 hPMk
 hR
 hu
@@ -49358,6 +49421,8 @@ gruppi
 geEU
 gNUU
 geeks
+gates
+gate
 pzd
 pPp
 pzq
@@ -51020,6 +51085,15 @@ pAA
 piace
 pugli
 pensa
+pesante
+posto
+pilotare
+porre
+pin
+passare
+permesso
+prossimo
+passa
 WaL
 Wl
 WWo
@@ -58535,6 +58609,8 @@ mantissa
 mutuamente
 mAX
 montaggio
+minuendo
+mantengono
 zJ
 zc
 zT
@@ -63077,6 +63153,7 @@ qKo
 qnF
 qQE
 qualcosa
+quest
 uO
 uo
 uN
@@ -64655,6 +64732,7 @@ uscita
 uUNNN
 usare
 unire
+uscite
 YN
 YqT
 Yd
@@ -69315,6 +69393,9 @@ tVV
 tiene
 trovate
 trick
+terminale
+teniamo
+transizioni
 nnWd
 nv
 nd
@@ -70804,6 +70885,7 @@ normalizzato
 nMsI
 ntI
 nwRRRCC
+next
 Subtype
 StemV
 Supplement
@@ -72383,6 +72465,8 @@ SOzQ
 SWW
 SGRAVATI
 Sommatore
+Stato
+Set
 Zf
 ZK
 ZM
@@ -78495,6 +78579,10 @@ drL
 distributivit
 dll
 dPSUu
+digitali
+disegnato
+dispositivo
+decidere
 öG
 öx
 ös
@@ -79973,6 +80061,8 @@ yjK
 yfNZj
 yaW
 yFUU
+ynexty
+ynext
 Ät
 ÄZ
 Äc

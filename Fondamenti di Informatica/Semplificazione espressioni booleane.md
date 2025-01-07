@@ -1,24 +1,24 @@
 # Regole di semplificazione
 
-| **Regola**                           | **Espressione**                       | **Semplificazione**                               |
-|--------------------------------------|--------------------------------------|--------------------------------------------------|
-| **Legge dell'identità**              | $A \cdot 1 = A$                      | L'operatore AND con 1 non cambia l'espressione.  |
-|                                      | $A + 0 = A$                          | L'operatore OR con 0 non cambia l'espressione.   |
-| **Legge dell'annullamento**          | $A \cdot 0 = 0$                      | L'operatore AND con 0 annulla l'espressione.     |
-|                                      | $A + 1 = 1$                          | L'operatore OR con 1 annulla l'espressione.      |
-| **Legge della complementazione**     | $A \cdot \overline{A} = 0$           | AND tra una variabile e il suo complementare è 0.|
-|                                      | $A + \overline{A} = 1$               | OR tra una variabile e il suo complementare è 1. |
-| **Legge dell'idempotenza**           | $A \cdot A = A$                      | AND tra la stessa variabile non cambia l'espressione. |
-|                                      | $A + A = A$                          | OR tra la stessa variabile non cambia l'espressione. |
-| **Legge della doppia negazione**     | $\overline{\overline{A}} = A$        | La doppia negazione restituisce il valore originale. |
-| **Legge di De Morgan**               | $\overline{A \cdot B} = \overline{A} + \overline{B}$ | La negazione di un AND è l'OR tra le negazioni. |
-|                                      | $\overline{A + B} = \overline{A} \cdot \overline{B}$ | La negazione di un OR è l'AND tra le negazioni.  |
-| **Legge di assorbimento**            | $A \cdot (A + B) = A$                | L'AND tra una variabile e un OR che la contiene è uguale alla variabile. |
-|                                      | $A + (A \cdot B) = A$                | L'OR tra una variabile e un AND che la contiene è uguale alla variabile. |
-| **Legge della distributività**       | $A \cdot (B + C) = (A \cdot B) + (A \cdot C)$ | L'AND distribuito sull'OR. |
-|                                      | $A + (B \cdot C) = (A + B) \cdot (A + C)$ | L'OR distribuito sull'AND. |
-| **Legge del complemento**            | $A \cdot \overline{A} = 0$           | AND tra una variabile e il suo complementare è 0.|
-|                                      | $A + \overline{A} = 1$               | OR tra una variabile e il suo complementare è 1. |
+| **Regola**                       | **Espressione**                                      | **Semplificazione**                                                      |
+| -------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Legge dell'identità**          | $A \cdot 1 = A$                                      | L'operatore AND con 1 non cambia l'espressione.                          |
+|                                  | $A + 0 = A$                                          | L'operatore OR con 0 non cambia l'espressione.                           |
+| **Legge dell'annullamento**      | $A \cdot 0 = 0$                                      | L'operatore AND con 0 annulla l'espressione.                             |
+|                                  | $A + 1 = 1$                                          | L'operatore OR con 1 annulla l'espressione.                              |
+| **Legge della complementazione** | $A \cdot \overline{A} = 0$                           | AND tra una variabile e il suo complementare è 0.                        |
+|                                  | $A + \overline{A} = 1$                               | OR tra una variabile e il suo complementare è 1.                         |
+| **Legge dell'idempotenza**       | $A \cdot A = A$                                      | AND tra la stessa variabile non cambia l'espressione.                    |
+|                                  | $A + A = A$                                          | OR tra la stessa variabile non cambia l'espressione.                     |
+| **Legge della doppia negazione** | $\overline{\overline{A}} = A$                        | La doppia negazione restituisce il valore originale.                     |
+| **Legge di De Morgan**           | $\overline{A \cdot B} = \overline{A} + \overline{B}$ | La negazione di un AND è l'OR tra le negazioni.                          |
+|                                  | $\overline{A + B} = \overline{A} \cdot \overline{B}$ | La negazione di un OR è l'AND tra le negazioni.                          |
+| **Legge di assorbimento**        | $A \cdot (A + B) = A$                                | L'AND tra una variabile e un OR che la contiene è uguale alla variabile. |
+|                                  | $A + (A \cdot B) = A$                                | L'OR tra una variabile e un AND che la contiene è uguale alla variabile. |
+| **Legge della distributività**   | $A \cdot (B + C) = (A \cdot B) + (A \cdot C)$        | L'AND distribuito sull'OR.                                               |
+|                                  | $A + (B \cdot C) = (A + B) \cdot (A + C)$            | L'OR distribuito sull'AND.                                               |
+| **Legge del complemento**        | $A \cdot \overline{A} = 0$                           | AND tra una variabile e il suo complementare è 0.                        |
+|                                  | $A + \overline{A} = 1$                               | OR tra una variabile e il suo complementare è 1.                         |
 
 
 
